@@ -1,2 +1,0 @@
-# -gitbub.io
-Logseq Docs
